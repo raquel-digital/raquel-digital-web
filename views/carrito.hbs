@@ -1,0 +1,29 @@
+{{!-- ACTIVAR EN FORMA MODAL --}}
+<div class="tablaModal  modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  
+</div>
+{{!-- HTML PURO --}}
+<div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <table class="tabla table table-striped table-bordered table-hover">
+        <thead>                            
+            <tr><th>descripcion</th>
+            <th>cantidad</th>
+            <th>precio</th>
+            <th>total</th>
+        </tr></thead>
+      
+        <tbody id="tablaComprar" class=" table-border">
+        
+        </tbody>
+        <thead id="tablaFooter">
+            <tr><th class="col-6">EL TOTAL DE SU COMPRA ES DE:</th>  
+                <th class="col-3" id="total"></th>
+                
+                <th><button class="botonVaciarCarrito btn btn-dark btn-sm">Vaciar Carrito</button></th>
+                <th><button class="botonFinalizarCompra btn btn-success btn-sm">Finalizar Compra</button></th>
+          
+        </tr></thead>                                                                                                         
+      </table>
+    </div>
+  </div>

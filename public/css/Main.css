@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+
+.barraInicio{
+    font-weight: 900;
+    background-color: rgb(7, 214, 24);
+    
+}
+
+body{
+    background-image: url("imagenDeFondo.jpg");    
+}
+
+
+

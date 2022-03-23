@@ -1,0 +1,735 @@
+[
+  {},
+  {
+    "codigo": "AH0576",
+    "imagen": "https://i.ibb.co/ws63nXc/ah0576.jpg"
+  },
+  {
+    "codigo": "AH0121",
+    "imagen": "https://i.ibb.co/7v7cYTs/ah0121.jpg"
+  },
+  {
+    "codigo": "AH0014",
+    "imagen": "https://i.ibb.co/HVnwR9f/ah0014.jpg"
+  },
+  {
+    "codigo": "AH0520",
+    "imagen": "https://i.ibb.co/BCwT2Bf/AH0520.jpg"
+  },
+  {
+    "codigo": "AH2396",
+    "imagen": "https://i.ibb.co/hgchsW6/ah2396.jpg"
+  },
+  {
+    "codigo": "AH2395",
+    "imagen": "https://i.ibb.co/RCBsH2z/ah2395.jpg"
+  },
+  {
+    "codigo": "AH1531",
+    "imagen": "https://i.ibb.co/YQsWH2S/AH1531.jpg"
+  },
+  {
+    "codigo": "AH2072",
+    "imagen": "https://i.ibb.co/4fDSyC0/ah2072.jpg"
+  },
+  {
+    "codigo": "AH1566",
+    "imagen": "https://i.ibb.co/RDB1PBh/ah1566.jpg"
+  },
+  {
+    "codigo": "AH1007",
+    "imagen": "https://i.ibb.co/vBWZ2QN/ah1007.jpg"
+  },
+  {
+    "codigo": "AH1020",
+    "imagen": "https://i.ibb.co/dQ4yjC2/ah1020.jpg"
+  },
+  {
+    "codigo": "AH1267",
+    "imagen": "https://i.ibb.co/0qnbLxz/ah1267.jpg"
+  },
+  {
+    "codigo": "AH0646",
+    "imagen": "https://i.ibb.co/tCZ3nrq/AH0646.jpg"
+  },
+  {
+    "codigo": "AH0737",
+    "imagen": "https://i.ibb.co/K9MDYyv/AH0737.jpg"
+  },
+  {
+    "codigo": "AH3004-1",
+    "imagen": "https://i.ibb.co/S0gqFn7/AH3004-1.jpg"
+  },
+  {
+    "codigo": "AH3004",
+    "imagen": "https://i.ibb.co/yqc3Gbf/AH3004.jpg"
+  },
+  {
+    "codigo": "AH3004",
+    "imagen": "https://i.ibb.co/yqc3Gbf/AH3004.jpg"
+  },
+  {
+    "codigo": "AH3004G",
+    "imagen": "https://i.ibb.co/5LJqVd1/AH3004G.jpg"
+  },
+  {
+    "codigo": "AH0605-1",
+    "imagen": "https://i.ibb.co/jHBjH3s/AH0605-1.jpg"
+  },
+  {
+    "codigo": "AH0591-2",
+    "imagen": "https://i.ibb.co/ZG3XKjk/ah0591-2.jpg"
+  },
+  {
+    "codigo": "AH0591-1",
+    "imagen": "https://i.ibb.co/TcpNh3C/AH0591-1.jpg"
+  },
+  {
+    "codigo": "AH0591-2",
+    "imagen": "https://i.ibb.co/ZG3XKjk/ah0591-2.jpg"
+  },
+  {
+    "codigo": "AH0230-1",
+    "imagen": "https://i.ibb.co/YBF2Zt8/AH0230-1.jpg"
+  },
+  {
+    "codigo": "AH0230",
+    "imagen": "https://i.ibb.co/mXLb6pJ/AH0230.jpg"
+  },
+  {
+    "codigo": "AH3004-1-G",
+    "imagen": "https://i.ibb.co/z2zc81b/AH3004-1-G.jpg"
+  },
+  {
+    "codigo": "AH2090-1",
+    "imagen": "https://i.ibb.co/3hr10rm/AH2090-1.jpg"
+  },
+  {
+    "codigo": "AH2090",
+    "imagen": "https://i.ibb.co/VqHFMz7/AH2090.jpg"
+  },
+  {
+    "codigo": "AH0605",
+    "imagen": "https://i.ibb.co/hMrmkJy/AH0605.jpg"
+  },
+  {
+    "codigo": "AH0737G",
+    "imagen": "https://i.ibb.co/nC61QFL/AH0737G.jpg"
+  },
+  {
+    "codigo": "AH0591-1-G",
+    "imagen": "https://i.ibb.co/JQJ7gZd/AH0591-1-G.jpg"
+  },
+  {
+    "codigo": "AH2090G",
+    "imagen": "https://i.ibb.co/4tTTQWY/AH2090G.jpg"
+  },
+  {
+    "codigo": "AH0605-1-G",
+    "imagen": "https://i.ibb.co/68SNhGV/AH0605-1-G.jpg"
+  },
+  {
+    "codigo": "AH2090-1-G",
+    "imagen": "https://i.ibb.co/Sn6TzBF/AH2090-1-G.jpg"
+  },
+  {
+    "codigo": "AH2529G",
+    "imagen": "https://i.ibb.co/frNgs5k/AH2529G.jpg"
+  },
+  {
+    "codigo": "AH2529",
+    "imagen": "https://i.ibb.co/RQKmV3d/AH2529.jpg"
+  },
+  {
+    "codigo": "AH0591G",
+    "imagen": "https://i.ibb.co/r4WJ9hG/AH0591G.jpg"
+  },
+  {
+    "codigo": "AH0230-1-G",
+    "imagen": "https://i.ibb.co/YR0T6L4/AH0230-1-G.jpg"
+  },
+  {
+    "codigo": "AH0230G",
+    "imagen": "https://i.ibb.co/X2FRGZ5/AH0230G.jpg"
+  },
+  {
+    "codigo": "AH0605G",
+    "imagen": "https://i.ibb.co/KbVMdNb/AH0605G.jpg"
+  },
+  {
+    "codigo": "AH3005",
+    "imagen": "https://i.ibb.co/6rQx8Vp/ah3005.jpg"
+  },
+  {
+    "codigo": "AH3004G",
+    "imagen": "https://i.ibb.co/5LJqVd1/AH3004G.jpg"
+  },
+  {
+    "codigo": "AH3004-1-G",
+    "imagen": "https://i.ibb.co/z2zc81b/AH3004-1-G.jpg"
+  },
+  {
+    "codigo": "AH3004-1",
+    "imagen": "https://i.ibb.co/S0gqFn7/AH3004-1.jpg"
+  },
+  {
+    "codigo": "AH3004",
+    "imagen": "https://i.ibb.co/yqc3Gbf/AH3004.jpg"
+  },
+  {
+    "codigo": "AH3004",
+    "imagen": "https://i.ibb.co/yqc3Gbf/AH3004.jpg"
+  },
+  {
+    "codigo": "AH2395",
+    "imagen": "https://i.ibb.co/RCBsH2z/ah2395.jpg"
+  },
+  {
+    "codigo": "AH2396",
+    "imagen": "https://i.ibb.co/hgchsW6/ah2396.jpg"
+  },
+  {
+    "codigo": "AH2529",
+    "imagen": "https://i.ibb.co/RQKmV3d/AH2529.jpg"
+  },
+  {
+    "codigo": "AH2090-1",
+    "imagen": "https://i.ibb.co/3hr10rm/AH2090-1.jpg"
+  },
+  {
+    "codigo": "AH2090",
+    "imagen": "https://i.ibb.co/VqHFMz7/AH2090.jpg"
+  },
+  {
+    "codigo": "AH2072",
+    "imagen": "https://i.ibb.co/4fDSyC0/ah2072.jpg"
+  },
+  {
+    "codigo": "AH1566",
+    "imagen": "https://i.ibb.co/RDB1PBh/ah1566.jpg"
+  },
+  {
+    "codigo": "AH0737G",
+    "imagen": "https://i.ibb.co/nC61QFL/AH0737G.jpg"
+  },
+  {
+    "codigo": "AH0737",
+    "imagen": "https://i.ibb.co/K9MDYyv/AH0737.jpg"
+  },
+  {
+    "codigo": "AH1267",
+    "imagen": "https://i.ibb.co/0qnbLxz/ah1267.jpg"
+  },
+  {
+    "codigo": "AH1020",
+    "imagen": "https://i.ibb.co/dQ4yjC2/ah1020.jpg"
+  },
+  {
+    "codigo": "AH0646",
+    "imagen": "https://i.ibb.co/tCZ3nrq/AH0646.jpg"
+  },
+  {
+    "codigo": "AH1007",
+    "imagen": "https://i.ibb.co/vBWZ2QN/ah1007.jpg"
+  },
+  {
+    "codigo": "AH0605-1-G",
+    "imagen": "https://i.ibb.co/68SNhGV/AH0605-1-G.jpg"
+  },
+  {
+    "codigo": "AH0605",
+    "imagen": "https://i.ibb.co/hMrmkJy/AH0605.jpg"
+  },
+  {
+    "codigo": "AH1531",
+    "imagen": "https://i.ibb.co/YQsWH2S/AH1531.jpg"
+  },
+  {
+    "codigo": "AH0605-1",
+    "imagen": "https://i.ibb.co/jHBjH3s/AH0605-1.jpg"
+  },
+  {
+    "codigo": "AH0591G",
+    "imagen": "https://i.ibb.co/r4WJ9hG/AH0591G.jpg"
+  },
+  {
+    "codigo": "AH0591-2",
+    "imagen": "https://i.ibb.co/ZG3XKjk/ah0591-2.jpg"
+  },
+  {
+    "codigo": "AH0576",
+    "imagen": "https://i.ibb.co/ws63nXc/ah0576.jpg"
+  },
+  {
+    "codigo": "AH0591-1-G",
+    "imagen": "https://i.ibb.co/JQJ7gZd/AH0591-1-G.jpg"
+  },
+  {
+    "codigo": "AH0591-1",
+    "imagen": "https://i.ibb.co/TcpNh3C/AH0591-1.jpg"
+  },
+  {
+    "codigo": "AH0591-2",
+    "imagen": "https://i.ibb.co/ZG3XKjk/ah0591-2.jpg"
+  },
+  {
+    "codigo": "AH0520",
+    "imagen": "https://i.ibb.co/BCwT2Bf/AH0520.jpg"
+  },
+  {
+    "codigo": "AH0014",
+    "imagen": "https://i.ibb.co/HVnwR9f/ah0014.jpg"
+  },
+  {
+    "codigo": "AH0121",
+    "imagen": "https://i.ibb.co/7v7cYTs/ah0121.jpg"
+  },
+  {
+    "codigo": "AH0230",
+    "imagen": "https://i.ibb.co/mXLb6pJ/AH0230.jpg"
+  },
+  {
+    "codigo": "AH0230-1",
+    "imagen": "https://i.ibb.co/YBF2Zt8/AH0230-1.jpg"
+  },
+  {
+    "codigo": "AH2529G",
+    "imagen": "https://i.ibb.co/frNgs5k/AH2529G.jpg"
+  },
+  {
+    "codigo": "AH2090G",
+    "imagen": "https://i.ibb.co/4tTTQWY/AH2090G.jpg"
+  },
+  {
+    "codigo": "AH0605G",
+    "imagen": "https://i.ibb.co/KbVMdNb/AH0605G.jpg"
+  },
+  {
+    "codigo": "AH2090-1-G",
+    "imagen": "https://i.ibb.co/Sn6TzBF/AH2090-1-G.jpg"
+  },
+  {
+    "codigo": "AH0230G",
+    "imagen": "https://i.ibb.co/X2FRGZ5/AH0230G.jpg"
+  },
+  {
+    "codigo": "AH0230-1-G",
+    "imagen": "https://i.ibb.co/YR0T6L4/AH0230-1-G.jpg"
+  },
+  {
+    "codigo": "AJ8038-1",
+    "imagen": "https://i.ibb.co/DwpKqhm/AJ8038-1.jpg"
+  },
+  {
+    "codigo": "AJ8038",
+    "imagen": "https://i.ibb.co/GMM7qZQ/AJ8038.jpg"
+  },
+  {
+    "codigo": "AJ8023",
+    "imagen": "https://i.ibb.co/N34g2DQ/AJ8023.jpg"
+  },
+  {
+    "codigo": "AJ9100-1",
+    "imagen": "https://i.ibb.co/F360Sz7/AJ9100-1.jpg"
+  },
+  {
+    "codigo": "AJ8050-8-G",
+    "imagen": "https://i.ibb.co/MVtNC0S/AJ8050-8-G.jpg"
+  },
+  {
+    "codigo": "AJ8050-2-G",
+    "imagen": "https://i.ibb.co/LxFSjpv/AJ8050-2-G.jpg"
+  },
+  {
+    "codigo": "AJ8050-3-G",
+    "imagen": "https://i.ibb.co/Jq1nsF1/AJ8050-3-G.jpg"
+  },
+  {
+    "codigo": "AH0014",
+    "imagen": "https://i.ibb.co/HVnwR9f/ah0014.jpg"
+  },
+  {
+    "codigo": "EST",
+    "imagen": "https://i.ibb.co/g38RHQB/est.jpg"
+  },
+  {
+    "codigo": "AE0200-7",
+    "imagen": "https://i.ibb.co/bryLHXm/AE0200-7.jpg"
+  },
+  {
+    "codigo": "AE0200-5",
+    "imagen": "https://i.ibb.co/8cXQZty/AE0200-5.jpg"
+  },
+  {
+    "codigo": "CA0900-1",
+    "imagen": "https://i.ibb.co/Dz6FhfD/CA0900-1.jpg"
+  },
+  {
+    "codigo": "AB0116",
+    "imagen": "https://i.ibb.co/3k2J8HL/AB0116.jpg"
+  },
+  {
+    "codigo": "AB0105",
+    "imagen": "https://i.ibb.co/ZJWQV0D/ab0105.jpg"
+  },
+  {
+    "codigo": "AB0099-17",
+    "imagen": "https://i.ibb.co/jMjDVyX/AB0099-17.jpg"
+  },
+  {
+    "codigo": "AB0099-16",
+    "imagen": "https://i.ibb.co/KzCVLgv/AB0099-16.jpg"
+  },
+  {
+    "codigo": "AB0111",
+    "imagen": "https://i.ibb.co/RpZz4M4/AB0111.jpg"
+  },
+  {
+    "codigo": "AB0105-2",
+    "imagen": "https://i.ibb.co/0YCz60X/ab0105-2.jpg"
+  },
+  {
+    "codigo": "AB0080-12",
+    "imagen": "https://i.ibb.co/7NPtXyw/AB0080-12.jpg"
+  },
+  {
+    "codigo": "AB0080-13",
+    "imagen": "https://i.ibb.co/CbrLGdF/AB0080-13.jpg"
+  },
+  {
+    "codigo": "AB0110G",
+    "imagen": "https://i.ibb.co/ySMZtmL/AB0110G.jpg"
+  },
+  {
+    "codigo": "AB0107",
+    "imagen": "https://i.ibb.co/rtP9PQR/AB0107.jpg"
+  },
+  {
+    "codigo": "AB0042G",
+    "imagen": "https://i.ibb.co/PCJXcDg/AB0042G.jpg"
+  },
+  {
+    "codigo": "AB0039G",
+    "imagen": "https://i.ibb.co/sPbdq6m/AB0039G.jpg"
+  },
+  {
+    "codigo": "AB0007G",
+    "imagen": "https://i.ibb.co/wgmTftG/AB0007G.jpg"
+  },
+  {
+    "codigo": "AB0005G",
+    "imagen": "https://i.ibb.co/54fDQr9/AB0005G.jpg"
+  },
+  {
+    "codigo": "AB0603G",
+    "imagen": "https://i.ibb.co/jWDzpbG/AB0603G.jpg"
+  },
+  {
+    "codigo": "AB0603",
+    "imagen": "https://i.ibb.co/mDjMjGH/AB0603.jpg"
+  },
+  {
+    "codigo": "AB0423",
+    "imagen": "https://i.ibb.co/hMN3NYZ/AB0423.jpg"
+  },
+  {
+    "codigo": "AB0367G",
+    "imagen": "https://i.ibb.co/dPMbwL5/AB0367G.jpg"
+  },
+  {
+    "codigo": "AB0247-G-1",
+    "imagen": "https://i.ibb.co/BgwZK1X/AB0247-G-1.jpg"
+  },
+  {
+    "codigo": "AB0224-3-G",
+    "imagen": "https://i.ibb.co/6Dgk2nn/AB0224-3-G.jpg"
+  },
+  {
+    "codigo": "AB1011",
+    "imagen": "https://i.ibb.co/895109b/AB1011.jpg"
+  },
+  {
+    "codigo": "AB1010G",
+    "imagen": "https://i.ibb.co/JvJL3Rc/AB1010G.jpg"
+  },
+  {
+    "codigo": "AB0994-6",
+    "imagen": "https://i.ibb.co/1LQ1QnY/AB0994-6.jpg"
+  },
+  {
+    "codigo": "AB1016",
+    "imagen": "https://i.ibb.co/zN0W2G5/AB1016.jpg"
+  },
+  {
+    "codigo": "AB1014",
+    "imagen": "https://i.ibb.co/7CLhfWQ/AB1014.jpg"
+  },
+  {
+    "codigo": "AB1015",
+    "imagen": "https://i.ibb.co/nDpXPKC/AB1015.jpg"
+  },
+  {
+    "codigo": "AB2188G",
+    "imagen": "https://i.ibb.co/JCpph3N/AB2188G.jpg"
+  },
+  {
+    "codigo": "AB2187",
+    "imagen": "https://i.ibb.co/4JkTLfh/AB2187.jpg"
+  },
+  {
+    "codigo": "AB2149G",
+    "imagen": "https://i.ibb.co/jhZyzQt/AB2149G.jpg"
+  },
+  {
+    "codigo": "AB2178",
+    "imagen": "https://i.ibb.co/8z1VPQJ/AB2178.jpg"
+  },
+  {
+    "codigo": "AB1328",
+    "imagen": "https://i.ibb.co/tcBNbPd/AB1328.jpg"
+  },
+  {
+    "codigo": "AB1100-1",
+    "imagen": "https://i.ibb.co/KzBc9vX/AB1100-1.jpg"
+  },
+  {
+    "codigo": "AB1084",
+    "imagen": "https://i.ibb.co/LtMvCsk/AB1084.jpg"
+  },
+  {
+    "codigo": "AB1041",
+    "imagen": "https://i.ibb.co/qm0tjwG/AB1041.jpg"
+  },
+  {
+    "codigo": "AB1040-1-G",
+    "imagen": "https://i.ibb.co/9hjCd6K/AB1040-1-G.jpg"
+  },
+  {
+    "codigo": "AB1024G",
+    "imagen": "https://i.ibb.co/vJx4LYD/AB1024G.jpg"
+  },
+  {
+    "codigo": "AB1022G",
+    "imagen": "https://i.ibb.co/h7RjcHr/AB1022G.jpg"
+  },
+  {
+    "codigo": "AB4114G",
+    "imagen": "https://i.ibb.co/TYrVpd1/AB4114G.jpg"
+  },
+  {
+    "codigo": "AB4114",
+    "imagen": "https://i.ibb.co/h1kRkSC/AB4114.jpg"
+  },
+  {
+    "codigo": "AB4108G",
+    "imagen": "https://i.ibb.co/dQbzTQs/AB4108G.jpg"
+  },
+  {
+    "codigo": "AB4107G",
+    "imagen": "https://i.ibb.co/7nmvr29/AB4107G.jpg"
+  },
+  {
+    "codigo": "AB4106G",
+    "imagen": "https://i.ibb.co/P5RtV2J/AB4106G.jpg"
+  },
+  {
+    "codigo": "AB2189",
+    "imagen": "https://i.ibb.co/fFvXZ0D/AB2189.jpg"
+  },
+  {
+    "codigo": "AB2248",
+    "imagen": "https://i.ibb.co/PWHpYPs/AB2248.jpg"
+  },
+  {
+    "codigo": "AB6614",
+    "imagen": "https://i.ibb.co/CtcYjvR/AB6614.jpg"
+  },
+  {
+    "codigo": "AB6609",
+    "imagen": "https://i.ibb.co/RC4MSRY/AB6609.jpg"
+  },
+  {
+    "codigo": "AB6582",
+    "imagen": "https://i.ibb.co/YdRPwkr/AB6582.jpg"
+  },
+  {
+    "codigo": "AB6576-12",
+    "imagen": "https://i.ibb.co/XFdF8Q1/AB6576-12.jpg"
+  },
+  {
+    "codigo": "AB6576-11",
+    "imagen": "https://i.ibb.co/2SF22pc/AB6576-11.jpg"
+  },
+  {
+    "codigo": "AB5134G",
+    "imagen": "https://i.ibb.co/kqLspGQ/AB5134G.jpg"
+  },
+  {
+    "codigo": "AB5111",
+    "imagen": "https://i.ibb.co/Jxgbcrt/AB5111.jpg"
+  },
+  {
+    "codigo": "AB5119G",
+    "imagen": "https://i.ibb.co/xgGxTyC/AB5119G.jpg"
+  },
+  {
+    "codigo": "AB7079",
+    "imagen": "https://i.ibb.co/y4Fc9js/AB7079.jpg"
+  },
+  {
+    "codigo": "AB7018",
+    "imagen": "https://i.ibb.co/tcw4Bbf/AB7018.jpg"
+  },
+  {
+    "codigo": "AB6979",
+    "imagen": "https://i.ibb.co/9Gm2DdW/AB6979.jpg"
+  },
+  {
+    "codigo": "AB6939",
+    "imagen": "https://i.ibb.co/pP7sryh/AB6939.jpg"
+  },
+  {
+    "codigo": "AB6639",
+    "imagen": "https://i.ibb.co/92S8fHC/AB6639.jpg"
+  },
+  {
+    "codigo": "AB6649",
+    "imagen": "https://i.ibb.co/vk2jGV5/AB6649.jpg"
+  },
+  {
+    "codigo": "AB7549",
+    "imagen": "https://i.ibb.co/yXF1QnH/AB7549.jpg"
+  },
+  {
+    "codigo": "BU0003",
+    "imagen": "https://i.ibb.co/6Pt8CsH/BU0003.jpg"
+  },
+  {
+    "codigo": "BU0003G",
+    "imagen": "https://i.ibb.co/tCd502m/BU0003G.jpg"
+  },
+  {
+    "codigo": "AR6111-13-G",
+    "imagen": "https://i.ibb.co/y4WQkCw/AR6111-13-G.jpg"
+  },
+  {
+    "codigo": "AR6111-13",
+    "imagen": "https://i.ibb.co/q9rBCNJ/AR6111-13.jpg"
+  },
+  {
+    "codigo": "AR6111-7",
+    "imagen": "https://i.ibb.co/r7Pbb2z/AR6111-7.jpg"
+  },
+  {
+    "codigo": "AR6111-1",
+    "imagen": "https://i.ibb.co/PQMTVxs/AR6111-1.jpg"
+  },
+  {
+    "codigo": "AR6111-5",
+    "imagen": "https://i.ibb.co/7k4NnBx/AR6111-5.jpg"
+  },
+  {
+    "codigo": "AR6111-3-G",
+    "imagen": "https://i.ibb.co/7412WGD/AR6111-3-G.jpg"
+  },
+  {
+    "codigo": "AR6111G",
+    "imagen": "https://i.ibb.co/5Fg4bJr/AR6111G.jpg"
+  },
+  {
+    "codigo": "AR6111G",
+    "imagen": "https://i.ibb.co/5Fg4bJr/AR6111G.jpg"
+  },
+  {
+    "codigo": "AR6111",
+    "imagen": "https://i.ibb.co/mbN0B8J/AR6111.jpg"
+  },
+  {
+    "codigo": "AR6111",
+    "imagen": "https://i.ibb.co/mbN0B8J/AR6111.jpg"
+  },
+  {
+    "codigo": "AR6111-13-G",
+    "imagen": "https://i.ibb.co/y4WQkCw/AR6111-13-G.jpg"
+  },
+  {
+    "codigo": "AR6111-13",
+    "imagen": "https://i.ibb.co/q9rBCNJ/AR6111-13.jpg"
+  },
+  {
+    "codigo": "AR6111-12-G",
+    "imagen": "https://i.ibb.co/b7hH0VN/AR6111-12-G.jpg"
+  },
+  {
+    "codigo": "AR6111-12",
+    "imagen": "https://i.ibb.co/QMqhVj3/AR6111-12.jpg"
+  },
+  {
+    "codigo": "AR6111-5",
+    "imagen": "https://i.ibb.co/7k4NnBx/AR6111-5.jpg"
+  },
+  {
+    "codigo": "AR6111-3-G",
+    "imagen": "https://i.ibb.co/7412WGD/AR6111-3-G.jpg"
+  },
+  {
+    "codigo": "AR6111-10",
+    "imagen": "https://i.ibb.co/FW1BWVq/AR6111-10.jpg"
+  },
+  {
+    "codigo": "AR6111-10-G",
+    "imagen": "https://i.ibb.co/1mb3pT9/AR6111-10-G.jpg"
+  },
+  {
+    "codigo": "AR6111-8",
+    "imagen": "https://i.ibb.co/4SxVbYB/AR6111-8.jpg"
+  },
+  {
+    "codigo": "AR6111-11",
+    "imagen": "https://i.ibb.co/pP6rmWn/AR6111-11.jpg"
+  },
+  {
+    "codigo": "AR6111-11-G",
+    "imagen": "https://i.ibb.co/k2WnzZX/AR6111-11-G.jpg"
+  },
+  {
+    "codigo": "AR6111-2",
+    "imagen": "https://i.ibb.co/n6RT2Sd/AR6111-2.jpg"
+  },
+  {
+    "codigo": "AR6111-2-G",
+    "imagen": "https://i.ibb.co/j8BrtZr/AR6111-2-G.jpg"
+  },
+  {
+    "codigo": "AR6111-4",
+    "imagen": "https://i.ibb.co/p1625Mk/AR6111-4.jpg"
+  },
+  {
+    "codigo": "AR6111-3",
+    "imagen": "https://i.ibb.co/jwzJ5Cf/AR6111-3.jpg"
+  },
+  {
+    "codigo": "AR6111-4-G",
+    "imagen": "https://i.ibb.co/HX7b13X/AR6111-4-G.jpg"
+  },
+  {
+    "codigo": "AR6111-3-G",
+    "imagen": "https://i.ibb.co/7412WGD/AR6111-3-G.jpg"
+  },
+  {
+    "codigo": "AR6111-9",
+    "imagen": "https://i.ibb.co/Pgy58Bg/AR6111-9.jpg"
+  },
+  {
+    "codigo": "AR6111-9-G",
+    "imagen": "https://i.ibb.co/Ms8P3gj/AR6111-9-G.jpg"
+  },
+  {
+    "codigo": "AR6111-6",
+    "imagen": "https://i.ibb.co/QdyGMqh/AR6111-6.jpg"
+  },
+  {
+    "codigo": "AR6111-6-G",
+    "imagen": "https://i.ibb.co/cvC1XHF/AR6111-6-G.jpg"
+  }
+]

@@ -1,0 +1,7 @@
+- cuando se ingresan imagenes a veces se rompe el JSON
+- adecuar las paginas de checkout de mercadopago para que envien mails con el pedido
+cuando la compra es exitosa
+- tunear el codigo para los casos distintos de compra de articulos
+-subir la base de datos de articulos a mongo
+-hacer que mango le pase todos los datos de usuario a la vista
+-*implementar el carrito
