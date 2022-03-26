@@ -57,13 +57,19 @@
             <input type="text" placeholder="contraseña" name="contraseña">
             <button class="btn btn-primary" type="submit">Entrar</button>
           </form>
-          </nav>
+          
+          
        {{/if}}
        {{#if user}}
-         <p>{{user.usuario}}</p>
+         {{!-- <p>Bienvenido: {{user.usuario}}</p>  --}}<p>{{user.apellido}}</p>
        {{/if}}
-    <!-- FIN NAVBAR -->
+  </nav>
+   <!-- FIN NAVBAR -->
+   {{#if checkNOT}}
     <div class="col-auto text-center" style="background-color: rgb(229, 250, 40);"><b><a href="http://localhost:8080/registrarse">¿NO ESTAS REGISTRADO? PODES HACERLO HACIENDO CLICK AQUI</a></b></div>
+    {{/if}} 
+   
+    
  <!-- BUSCADOR!! -->
     <div class="container">
         <h1>Buscador</h1>

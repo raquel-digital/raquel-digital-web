@@ -5,7 +5,8 @@ const schema = mongoose.Schema({
     apellido: {type: String},
     usuario: {type: String}, 
     pass: {type: String},
-    empresa: {type: String}
+    empresa: {type: String},
+    carrito: [{pedidos: [{codigo: String, titulo: String, precio: Number, cantidad: Number}]}]
 });
 
 const clientes = mongoose.model("Clientes", schema);

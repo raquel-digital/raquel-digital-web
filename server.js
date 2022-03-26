@@ -92,6 +92,10 @@ io.on('connect', socket => {
         fs.writeFileSync("./articulos/img/img-art.json", JSON.stringify(base, null, 2));
         crearCategorias(articulos, imagenes)
     })
+    socket.on("compra-art", async (articulo, clientID) => {
+      await mongoCrud.carrito(articulo, clientID) 
+    });
+    
     socket.on("test", () => {
         socket.emit("ok")
     })

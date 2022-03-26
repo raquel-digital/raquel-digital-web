@@ -8,6 +8,15 @@ var arrayGenerarMostrador = [];
 var codigosArray = [];
 var botonera = document.querySelector(".botonera");
 var botonDeCompra = document.querySelector(".botonComprar");
+let clientID = {}
+
+socket.emit("nueva-sesion", () => {
+  socket.on("sesion-ok", data => {
+    clientID = {
+      
+    }
+  })
+})
 
 socket.on("allData", data => {
     arrayDeArticulos = data;
@@ -207,8 +216,10 @@ mostrador.addEventListener('click', event=>{
     //acciones(codigo, titulo, precio, cantidad) 
     const articulo = {codigo: codigo, titulo: titulo, precio: precio, cantidad: cantidad}
     console.log(articulo)
+    //carrito
+    carrito(articulo);
     //emite compra TODO hacer login de usuario
-    socket.emit("compra-art", articulo);    
+    socket.emit("compra-art", articulo, clientID);    
   }  
   if(mouse.classList.contains('fa-plus-circle')){
     let cantidad = mouse.parentElement.previousElementSibling.value++;
@@ -220,4 +231,10 @@ mostrador.addEventListener('click', event=>{
     }
   }           
 })
+
+function carrito(articulo){
+
+}
+
+
  

@@ -3,5 +3,7 @@
 cuando la compra es exitosa
 - tunear el codigo para los casos distintos de compra de articulos
 -subir la base de datos de articulos a mongo
--hacer que mango le pase todos los datos de usuario a la vista
+-hacer que mongo le pase todos los datos de usuario a la vista
+-cuando el usuario no este conectado ocultar el boton de compra
+-crear boton de des loguearse
 -*implementar el carrito
